@@ -13,5 +13,5 @@
 ![gege](ssno2tahun.png)
 
 ### Dokumentasi no 2 6 Bulan
-![gege](ssno2bulann.png)
+![gege](ssno2bulan.png)
 
