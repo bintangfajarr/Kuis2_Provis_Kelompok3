@@ -8,3 +8,10 @@
 
 ### Dokumentasi no 1 6 Bulan
 ![gege](ssno16bulann.png)
+
+### Dokumentasi no 2 1 Tahun
+![gege](ssno2tahun.png)
+
+### Dokumentasi no 2 6 Bulan
+![gege](ssno2bulann.png)
+
