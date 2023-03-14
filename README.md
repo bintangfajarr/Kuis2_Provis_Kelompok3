@@ -1,4 +1,8 @@
 # Kuis2_Provis_Kelompok3
+## Anggota Kelompok
+- Muhammad Cahyana Bintang Fajar - 2102665
+- Muhammad Kamal Robbani - 2102313
+
 ### Dokumentasi no 1 1 Tahun
 ![gege](ssno1tahun.png)
 
